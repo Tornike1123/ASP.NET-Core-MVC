@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5Eglj+PzNcyZPdowQDOI4KwVoAPqkG2RzGAXgXTuyL0iOAHgOUtSQW+4iIeSllXDReTkixdF4Pz92oyTwIuvMA==",
+  "dgSpecHash": "xFwJop9IFlFbX0dio4/ummEsy2uireHOy+DlUBqcKotsj70/Y5aYIgbj7qdOoJDGBRQTxCAh7ffaINq9dn2Ieg==",
   "success": true,
   "projectFilePath": "/Users/macbook/Desktop/ASP.NET-Core-MVC/BulkyBookWeb/BulkyBookWeb/BulkyBookWeb.csproj",
   "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/6.0.26/microsoft.aspnetcore.mvc.razor.extensions.6.0.26.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/6.0.26/microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.26.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.26/microsoft.aspnetcore.razor.language.6.0.26.nupkg.sha512",
@@ -17,8 +18,10 @@
     "/Users/macbook/.nuget/packages/microsoft.entityframeworkcore/6.0.26/microsoft.entityframeworkcore.6.0.26.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.26/microsoft.entityframeworkcore.abstractions.6.0.26.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.26/microsoft.entityframeworkcore.analyzers.6.0.26.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.entityframeworkcore.design/6.0.26/microsoft.entityframeworkcore.design.6.0.26.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.26/microsoft.entityframeworkcore.relational.6.0.26.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.entityframeworkcore.sqlserver/6.0.26/microsoft.entityframeworkcore.sqlserver.6.0.26.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.entityframeworkcore.tools/6.0.26/microsoft.entityframeworkcore.tools.6.0.26.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "/Users/macbook/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
