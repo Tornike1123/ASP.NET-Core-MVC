@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{AFCAF27C-554C-48C6-A3F7-AA697BDFED20}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Data/ApplicationDbContext.cs">
     <Files>
-      <File FileName="BulkyBookWeb/Program.cs" Line="2" Column="1" />
+      <File FileName="BulkyBookWeb/appsettings.json" Line="14" Column="1" />
+      <File FileName="BulkyBookWeb/Data/ApplicationDbContext.cs" Line="6" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BulkyBookWeb">
-            <Node name="BulkyBookWeb" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="BulkyBookWeb">
+              <Node name="Data" expanded="True">
+                <Node name="ApplicationDbContext.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -20,6 +22,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
 </Properties>
