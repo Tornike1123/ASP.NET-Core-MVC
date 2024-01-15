@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/BulkyBookWeb.bundle.scp.css"
     },
     {
+      "Id": "/Users/macbook/Desktop/ASP.NET-Core-MVC/BulkyBookWeb/BulkyBookWeb/wwwroot/css/bootswatchTheme.css",
+      "PackagePath": "staticwebassets/css/bootswatchTheme.css"
+    },
+    {
       "Id": "/Users/macbook/Desktop/ASP.NET-Core-MVC/BulkyBookWeb/BulkyBookWeb/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
