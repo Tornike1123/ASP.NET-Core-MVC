@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using BulkyBookWeb.Data;
+using BulkyBookWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -20,8 +21,8 @@ public class CategoryController : Controller
 
     public IActionResult Index()
     {
-        var objCategoryList = _db.Categories.ToList();
-        return View();
+        IEnumerable<Category> objCategoryList = _db.Categories;
+        return View(objCategoryList);
     }
 }
 
