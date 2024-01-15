@@ -2772,6 +2772,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Microsoft.AspNetCore.Mvc.Razor.Extensions >= 6.0.26",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 6.0.26",
       "Microsoft.EntityFrameworkCore >= 6.0.26",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.26",
@@ -2797,6 +2798,7 @@
         "net6.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2815,6 +2817,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Razor.Extensions": {
+            "target": "Package",
+            "version": "[6.0.26, )"
+          },
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
             "target": "Package",
             "version": "[6.0.26, )"
@@ -2853,7 +2859,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
       }
     }
   }

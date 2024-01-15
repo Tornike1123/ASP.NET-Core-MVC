@@ -14,11 +14,14 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.Extensions" Version="6.0.26" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Data\" />
+    <None Remove="Views\Category\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
+    <Folder Include="Views\Category\" />
   </ItemGroup>
 </Project>
