@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = /Users/macbook/Desktop/ASP.NET-Core-MVC/BulkyBookWeb/BulkyBookWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/macbook/Desktop/ASP.NET-Core-MVC/BulkyBookWeb/BulkyBookWeb/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/macbook/Desktop/ASP.NET-Core-MVC/BulkyBookWeb/BulkyBookWeb/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/macbook/Desktop/ASP.NET-Core-MVC/BulkyBookWeb/BulkyBookWeb/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -25,7 +25,4 @@
     <Folder Include="Data\" />
     <Folder Include="Views\Category\" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Remove="Views\Category\Create.cshtml" />
-  </ItemGroup>
 </Project>
