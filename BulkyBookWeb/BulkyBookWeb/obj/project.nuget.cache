@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V0x25x1s5SWFMLAv7QCB7cth+ZLjeyDB5F9/pMCIuhcFHdV6J0sewGSXnbkfvNTzyMOAsKY1awYCZ6TFmU/J0Q==",
+  "dgSpecHash": "aRotnPSuosOvaWVS2k5Y46txOyekmZS7Ceq/NTFDvC4+O+XkNe2T9rOcrnG6IgPCW80Drl9zr05AwvdKKS6Eog==",
   "success": true,
   "projectFilePath": "/Users/macbook/Desktop/ASP.NET-Core-MVC/BulkyBookWeb/BulkyBookWeb/BulkyBookWeb.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "/Users/macbook/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "/Users/macbook/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/macbook/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/macbook/.nuget/packages/system.configuration.configurationmanager/4.7.0/system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "/Users/macbook/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "/Users/macbook/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
