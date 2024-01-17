@@ -1,26 +1,36 @@
 ﻿<Properties StartupConfiguration="{AFCAF27C-554C-48C6-A3F7-AA697BDFED20}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Controllers/CategoryController.cs">
     <Files>
-      <File FileName="BulkyBookWeb/appsettings.json" Line="12" Column="2" />
-      <File FileName="BulkyBookWeb/Data/ApplicationDbContext.cs" Line="6" Column="1" />
-      <File FileName="BulkyBookWeb/Program.cs" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Controllers/CategoryController.cs" Line="47" Column="28" />
+      <File FileName="BulkyBookWeb/Views/Category/Create.cshtml" Line="19" Column="47" />
+      <File FileName="BulkyBookWeb/Views/Category/Create (copy).cshtml" Line="4" Column="37" />
+      <File FileName="BulkyBookWeb/Views/Category/Index.cshtml" Line="44" Column="74" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BulkyBookWeb" expanded="True">
-            <Node name="BulkyBookWeb">
-              <Node name="Data" expanded="True" />
-              <Node name="appsettings.json" selected="True" />
+            <Node name="BulkyBookWeb" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CategoryController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Category" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
